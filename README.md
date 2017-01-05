@@ -1,8 +1,10 @@
 # LED点滅
 
 
+
 # 付属のbashファイル
 LED_flash.bash (LEDを0.2秒間隔で10回点滅を繰り返す)
+
 
 
 # LED点滅手順
@@ -29,6 +31,7 @@ LED_flash.bash (LEDを0.2秒間隔で10回点滅を繰り返す)
 
 
 5.sudo ./LED_flsh.bash
+
 
 
 # 動画URL
