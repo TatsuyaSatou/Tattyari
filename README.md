@@ -14,11 +14,13 @@ LED点滅手順
 3.sudo chmod 666 /dev/myled0
        
             
-    ↓
+     ↓
 
 
 4.chmod +x LED_flash.bash
        
               
-   ↓
+     ↓
+
+
 5. sudo ./LED_flsh.bash
