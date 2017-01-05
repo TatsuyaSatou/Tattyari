@@ -23,4 +23,4 @@ LED点滅手順
      ↓
 
 
-5. sudo ./LED_flsh.bash
+5.sudo ./LED_flsh.bash
