@@ -3,7 +3,11 @@
 LED点滅手順
 
 1.make
-  ↓
+ 
+ 
+ 
+ 
+ ↓
 2.sudo insmod myled.ko
 　↓
 3.sudo chmod 666 /dev/myled0
