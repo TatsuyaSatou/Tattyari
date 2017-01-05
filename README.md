@@ -1,8 +1,11 @@
 # LED点滅
-ロボットシステム学
 
 
-LED点滅手順
+# 付属のbashファイル
+LED_flash.bash (LEDを0.2秒間隔で10回点滅を繰り返す)
+
+
+# LED点滅手順
 
   1.make
  
@@ -26,3 +29,7 @@ LED点滅手順
 
 
 5.sudo ./LED_flsh.bash
+
+
+# 動画URL
+https://youtu.be/KP9mW2ujuy0
